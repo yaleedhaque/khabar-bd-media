@@ -12,10 +12,12 @@
     "source": "Wikimedia Commons"
   },
   "langra-mango": {
-    "title": "Vikramshila Agrovet - Langra Mango farm, Mathurapur, Bhagalpur Bihar.JPG",
-    "author": "Abhishek Priyadarshi",
+    "title": "Mangifera indica var. José",
+    "author": "B.navez",
     "license": "CC BY-SA 3.0",
-    "source": "Wikimedia Commons"
+    "source": "Wikimedia Commons",
+    "file": "Mangifera indica var. José.JPG",
+    "representative": true
   },
   "fazli-mango": {
     "title": "Fazli Mango of Malda district of West Bengal.jpg",
@@ -24,10 +26,12 @@
     "source": "Wikimedia Commons"
   },
   "ashwina-mango": {
-    "title": "Mango orchard beside paddy field.jpg",
-    "author": "SyedAminul",
+    "title": "Mangos - single and halved",
+    "author": "Ivar Leidus",
     "license": "CC BY-SA 4.0",
-    "source": "Wikimedia Commons"
+    "source": "Wikimedia Commons",
+    "file": "Mangos - single and halved.jpg",
+    "representative": true
   },
   "haribhanga-mango": {
     "title": "হাড়িভাঙ্গা আম.jpg",
@@ -48,22 +52,28 @@
     "source": "Wikimedia Commons"
   },
   "kataribhog-rice": {
-    "title": "Kataribhog - কাটারিভোগ - Paddy - DSC00616.jpg",
-    "author": "ROCKY",
-    "license": "CC BY-SA 4.0",
-    "source": "Wikimedia Commons"
+    "title": "Rice grains (IRRI)",
+    "author": "IRRI Images",
+    "license": "CC BY 2.0",
+    "source": "Wikimedia Commons",
+    "file": "Rice grains (IRRI).jpg",
+    "representative": true
   },
   "kalijira-rice": {
-    "title": "Kalijira - কালিজিরা - Paddy - DSC00614.jpg",
-    "author": "ROCKY",
-    "license": "CC BY-SA 4.0",
-    "source": "Wikimedia Commons"
+    "title": "Bowl of white rice 01",
+    "author": "Douglas Perkins",
+    "license": "CC0",
+    "source": "Wikimedia Commons",
+    "file": "Bowl of white rice 01.jpg",
+    "representative": true
   },
   "tulsimala-rice": {
-    "title": "Chinigura - চিনিগুড়া - Paddy - DSC00610.jpg",
-    "author": "ROCKY",
-    "license": "CC BY-SA 4.0",
-    "source": "Wikimedia Commons"
+    "title": "A bowl of rice",
+    "author": "Douglas Perkins",
+    "license": "CC0",
+    "source": "Wikimedia Commons",
+    "file": "A bowl of rice.jpg",
+    "representative": true
   },
   "bagda-chingri": {
     "title": "Penaeus monodon.jpg",
@@ -118,5 +128,213 @@
     "author": "No machine-readable author provided. Mamun2a assumed (based ",
     "license": "CC BY-SA 2.5",
     "source": "Wikimedia Commons"
+  },
+  "nak-fazli-mango": {
+    "title": "Fresh mango fruits",
+    "author": "Ainomugisha Brendah",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Fresh mango fruits.jpg",
+    "representative": true
+  },
+  "madhupur-pineapple": {
+    "title": "Pineapples in Bangladesh",
+    "author": "Mashkawat.ahsan",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Pineapples in Bangladesh.jpg",
+    "representative": true
+  },
+  "gopalganj-rosogolla": {
+    "title": "Flavoured Rosogolla - Aahare Bangla 2016",
+    "author": "Schwiki",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Flavoured Rosogolla - Aahare Bangla 2016.jpg",
+    "representative": true
+  },
+  "jamurki-sandesh": {
+    "title": "Bengali Sandesh",
+    "author": "1Bongfoodie",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Bengali Sandesh.jpg",
+    "representative": true
+  },
+  "amrita-sagar-banana": {
+    "title": "Colors of Dhaka’s Fruit Bazaar",
+    "author": "Masumcity",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Colors of Dhaka’s Fruit Bazaar.jpg",
+    "representative": true
+  },
+  "bedana-litchi": {
+    "title": "2013-12-28 19-46-10 Litchi-17f",
+    "author": "Thomas Bresson",
+    "license": "CC BY 3.0",
+    "source": "Wikimedia Commons",
+    "file": "2013-12-28 19-46-10 Litchi-17f.jpg",
+    "representative": true
+  },
+  "bhola-buffalo-curd": {
+    "title": "Aam doi",
+    "author": "Silvereeds",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Aam doi.jpg",
+    "representative": true
+  },
+  "hajrapuri-litchi": {
+    "title": "DSCF0634 Fresh bunches of lychees with glossy green leaves ready for market display",
+    "author": "PattayaPatrol",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "DSCF0634 Fresh bunches of lychees with glossy green leaves ready for market display.jpg",
+    "representative": true
+  },
+  "jessore-molasses": {
+    "title": "Palmyra Jaggery blocks",
+    "author": "Thamizhpparithi Maari",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Palmyra Jaggery blocks.jpg",
+    "representative": true
+  },
+  "mehersagar-banana": {
+    "title": "At Sadarghat street Market 08",
+    "author": "Kritzolina",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "At Sadarghat street Market 08.jpg",
+    "representative": true
+  },
+  "ponir-oshtogram": {
+    "title": "Homemade Paneer cut into pieces for cooking Cheese Fromage India",
+    "author": "Ian Brown",
+    "license": "CC BY 2.0",
+    "source": "Wikimedia Commons",
+    "file": "Homemade Paneer cut into pieces for cooking Cheese Fromage India.jpg",
+    "representative": true
+  },
+  "amra-barishal": {
+    "title": "Green oranges and hog plum (Spondias mombin) of venders on Shyamoli foot over bridge, Dhaka 2025",
+    "author": "Tausheef Hassan Auntu",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Green oranges and hog plum (Spondias mombin) of venders on Shyamoli foot over bridge, Dhaka 2025.jpg",
+    "representative": true
+  },
+  "lal-chini-fulbaria": {
+    "title": "A Jaggery",
+    "author": "Thamizhpparithi Maari",
+    "license": "CC BY-SA 3.0",
+    "source": "Wikimedia Commons",
+    "file": "A Jaggery.JPG",
+    "representative": true
+  },
+  "hazari-gur-manikganj": {
+    "title": "Jaggery cubes",
+    "author": "Mangosapiens",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Jaggery cubes.jpg",
+    "representative": true
+  },
+  "sabitri-mishti": {
+    "title": "Chomchom 01",
+    "author": "Ferdous",
+    "license": "CC BY-SA 3.0",
+    "source": "Wikimedia Commons",
+    "file": "Chomchom 01.jpg",
+    "representative": true
+  },
+  "gopalbhog-mango": {
+    "title": "Chopped Amrapali mango on a tree, Kurigram, Bangladesh",
+    "author": "Tanvir Rahat",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Chopped Amrapali mango on a tree, Kurigram, Bangladesh.jpg",
+    "representative": true
+  },
+  "mehersagar-gur-meherpur": {
+    "title": "Jaggery, bd",
+    "author": "Ferdous",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Jaggery, bd.jpg",
+    "representative": true
+  },
+  "latiraj-kochu": {
+    "title": "Colocasia esculenta (Taro or Gabi) corms germinating - Mindanao, Philippines",
+    "author": "Obsidian Soul",
+    "license": "CC BY-SA 3.0",
+    "source": "Wikimedia Commons",
+    "file": "Colocasia esculenta (Taro or Gabi) corms germinating - Mindanao, Philippines.JPG",
+    "representative": true
+  },
+  "sweet-betel-leaf": {
+    "title": "Betel Cultivation20020400 4",
+    "author": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "source": "Wikimedia Commons",
+    "file": "Betel Cultivation20020400 4.jpg",
+    "representative": true
+  },
+  "rata-boro-rice": {
+    "title": "A paddy field (rice field) in bangladesh",
+    "author": "Shahidul Hasan Roman",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "A paddy field (rice field) in bangladesh.jpg",
+    "representative": true
+  },
+  "muktagacha-monda": {
+    "title": "Monda-Shaktigarh",
+    "author": "Sumitsurai",
+    "license": "CC BY-SA 3.0",
+    "source": "Wikimedia Commons",
+    "file": "Monda-Shaktigarh.jpg",
+    "representative": true
+  },
+  "lotkon": {
+    "title": "Fruits of Baccaurea motleyana (Phyllanthaceae)",
+    "author": "NusHub",
+    "license": "CC BY-SA 3.0",
+    "source": "Wikimedia Commons",
+    "file": "Fruits of Baccaurea motleyana (Phyllanthaceae).JPG",
+    "representative": true
+  },
+  "patkheer": {
+    "title": "Rice Kheer-Payash, Kolkata - West Bengal - DSC 0017",
+    "author": "TAPAS KUMAR HALDER",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Rice Kheer-Payash, Kolkata - West Bengal - DSC 0017.jpg",
+    "representative": true
+  },
+  "chanamukhi-sweet": {
+    "title": "Bangladeshi Sweet Chomchom 2015",
+    "author": "Aashaa",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Bangladeshi Sweet Chomchom 2015.jpg",
+    "representative": true
+  },
+  "ksheer-chomchom-rajbari": {
+    "title": "Malai Chomchom from Kolkata, India",
+    "author": "Ravi Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "file": "Malai Chomchom from Kolkata, India.jpg",
+    "representative": true
+  },
+  "balish-misti": {
+    "title": "Kalakand1",
+    "author": "Pradeep717",
+    "license": "CC BY-SA 3.0",
+    "source": "Wikimedia Commons",
+    "file": "Kalakand1.JPG",
+    "representative": true
   }
 }
